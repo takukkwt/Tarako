@@ -56,6 +56,12 @@ body {
 }
 
 
+.turnstile-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
 .rainbow-bg {
   background: linear-gradient(
     135deg,
